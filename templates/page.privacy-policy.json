@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "1645485439c1ba1b95": {
+      "type": "fading-images",
+      "blocks": {
+        "1645485439bd7de99a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-02-20_at_12.37.00_AM.png",
+            "focal_point": "center center",
+            "slide_title1": "Privacy policy",
+            "slide_title2": ""
+          }
+        }
+      },
+      "block_order": [
+        "1645485439bd7de99a-0"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "heading",
+        "title_size": 70,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "1645559742a0187ce8": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "WHERE WE STARTED",
+        "text": "<p>Team BH was founded by Matteo Di Penta (BH Mayo) on April 11th, 2018. As time progressed, we were able to develop a very strong and loyal connection within our community, as we actively recruited a plethora of grinders to Team BH. As a result of this, our #ReleaseTheHounds has gained over 3.7 billion impressions on Twitter and 956,000 community posts on Instagram. We are proud to say that we organically grew our community to where it stands today, while also creating new and unique content ideas that have been replicated by many others. We plan to continue our legacy by better diversifying Team BH with the guidance of our parent company Intema Solutions. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1645559908aef39c50": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "WHERE WE ARE NOW",
+        "text": "<p>Today, Team BH is the second most followed esports team based in Canada, while also possessing some of the most influential content creators in North America. With a roster of content creators, streamers, and professional gamers we have more than 13 million combined followers across all of our social media platforms. As a collective, we have surpassed over 770 million views on YouTube since Team BH was established. We have worked with many notable companies like Champion, EA Sports, Roots Clothing, GFuel Energy, and more. In September 2021, we were acquired by Intema Solutions Inc, the world's emerging leader in the esports and iGaming industry.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "1645485439c1ba1b95",
+    "main",
+    "1645559742a0187ce8",
+    "1645559908aef39c50"
+  ]
+}

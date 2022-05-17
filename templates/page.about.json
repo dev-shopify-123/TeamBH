@@ -1,0 +1,407 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "title": "our team",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-02-19_at_6.17.25_PM.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "text-columns": {
+      "type": "text-columns",
+      "blocks": {
+        "column1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-01_at_7.07.43_PM.png",
+            "image_width": 350,
+            "title": "MATTEO DI PENTA",
+            "text": "<p>CEO<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/matteodipenta"
+          }
+        },
+        "column2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Distant.jpg",
+            "image_width": 350,
+            "title": "CRIS FERNANDEZ",
+            "text": "<p>COO<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/ryleighkimble"
+          }
+        },
+        "d4e9de39-2e75-49ec-9617-8516b17681b8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Nextle.jpg",
+            "image_width": 350,
+            "title": "BH NEXTLE",
+            "text": "<p>INSTAGRAM MANAGER<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhnextle"
+          }
+        },
+        "1c35b138-a9ab-4f9c-b71e-22e2b1bbad3b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Carson.jpg",
+            "image_width": 350,
+            "title": "BH CARSON",
+            "text": "<p>TIKTOK MANAGER<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhcarson"
+          }
+        },
+        "8493c9bf-c533-4bfb-865b-238b5aebf743": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Kazed.jpg",
+            "image_width": 350,
+            "title": "BH KAZED",
+            "text": "<p>YOUTUBE MANAGER<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhkazed"
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "d4e9de39-2e75-49ec-9617-8516b17681b8",
+        "1c35b138-a9ab-4f9c-b71e-22e2b1bbad3b",
+        "8493c9bf-c533-4bfb-865b-238b5aebf743"
+      ],
+      "settings": {
+        "title": "OUR MANAGEMENT TEAM",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "164556025896b0755f": {
+      "type": "text-columns",
+      "blocks": {
+        "16455602580010fe37-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Nate.jpg",
+            "image_width": 650,
+            "title": "BH NATE",
+            "text": "<p>CONTENT EDITOR<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhnate"
+          }
+        },
+        "16455602580010fe37-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Quiro.jpg",
+            "image_width": 650,
+            "title": "BH QUIRO",
+            "text": "<p>SOCIAL MEDIA DESIGNER<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhquiro"
+          }
+        },
+        "16455602580010fe37-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Greifed.jpg",
+            "image_width": 650,
+            "title": "BH GREIFED",
+            "text": "<p>3D MODELLER <\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhgreifed"
+          }
+        }
+      },
+      "block_order": [
+        "16455602580010fe37-0",
+        "16455602580010fe37-1",
+        "16455602580010fe37-2"
+      ],
+      "settings": {
+        "title": "OUR CREATORS",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1645560611228409cb": {
+      "type": "text-columns",
+      "blocks": {
+        "16455606118e598480-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Dropz.jpg",
+            "image_width": 650,
+            "title": "BH Dropz",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhdropz"
+          }
+        },
+        "16455606118e598480-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Slapiin.jpg",
+            "image_width": 650,
+            "title": "BH Slapiin",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "Socials",
+            "button_link": "https:\/\/linktr.ee\/bhslapiin"
+          }
+        },
+        "558df145-9435-4719-a31e-f4cd81fff68f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/bh_lof.jpg",
+            "image_width": 650,
+            "title": "BH Lof",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhlof"
+          }
+        },
+        "65431837-d42e-4313-93ee-10f07b121f1f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_iRunYew.jpg",
+            "image_width": 650,
+            "title": "BH Irunyew",
+            "text": "<p>NBA2K\/Lifestyle<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhirunyew"
+          }
+        },
+        "01ebe5d8-5419-4611-a878-142db0a3ba70": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Reload.jpg",
+            "image_width": 650,
+            "title": "bh reload",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/reloadbh"
+          }
+        },
+        "f1a1c152-a993-44a0-8bac-3269c7ba931b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Heisen.jpg",
+            "image_width": 650,
+            "title": "bh heisen",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhheisen"
+          }
+        },
+        "198130d9-6553-4b5c-b14d-b9640ccdf942": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Breezy.jpg",
+            "image_width": 650,
+            "title": "bh breezy",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhbreezy"
+          }
+        },
+        "902be404-67fd-4f74-b36e-11d4c3266784": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Ggeez.jpg",
+            "image_width": 650,
+            "title": "bh ggeez",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhggeez"
+          }
+        },
+        "dd30b569-9abe-4a48-8508-7de6ba774fff": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_ChadwithaJ.jpg",
+            "image_width": 650,
+            "title": "bh chadwithaj",
+            "text": "<p>Lifestyle<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/chadwithaj"
+          }
+        }
+      },
+      "block_order": [
+        "16455606118e598480-1",
+        "16455606118e598480-2",
+        "558df145-9435-4719-a31e-f4cd81fff68f",
+        "65431837-d42e-4313-93ee-10f07b121f1f",
+        "01ebe5d8-5419-4611-a878-142db0a3ba70",
+        "f1a1c152-a993-44a0-8bac-3269c7ba931b",
+        "198130d9-6553-4b5c-b14d-b9640ccdf942",
+        "902be404-67fd-4f74-b36e-11d4c3266784",
+        "dd30b569-9abe-4a48-8508-7de6ba774fff"
+      ],
+      "settings": {
+        "title": "OUR CONTENT CREATORS",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "164556067738a39177": {
+      "type": "text-columns",
+      "blocks": {
+        "1645560677cd10994b-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-01_at_7.00.33_PM.png",
+            "image_width": 350,
+            "title": "bh paola",
+            "text": "<p>Fortnite\/Valorant<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhpaola"
+          }
+        },
+        "fb299aa6-2b6c-4cd5-a23c-79e388669812": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/SophieSnazz_BH.jpg",
+            "image_width": 350,
+            "title": "Sophiesnazz",
+            "text": "<p>Call of Duty\/Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhsophiesnazz"
+          }
+        },
+        "1645560677cd10994b-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_DaisyyMichelle.jpg",
+            "image_width": 350,
+            "title": "bh daisy michelle",
+            "text": "<p>Call of Duty\/Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhdaisymichelle"
+          }
+        },
+        "1645560677cd10994b-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Cozz.jpg",
+            "image_width": 350,
+            "title": "bh cozz",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhcozz"
+          }
+        }
+      },
+      "block_order": [
+        "1645560677cd10994b-0",
+        "fb299aa6-2b6c-4cd5-a23c-79e388669812",
+        "1645560677cd10994b-1",
+        "1645560677cd10994b-2"
+      ],
+      "settings": {
+        "title": "OUR STREAMERS",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1645560698b3a9960f": {
+      "type": "text-columns",
+      "blocks": {
+        "16455606983469df70-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Byzic.jpg",
+            "image_width": 350,
+            "title": "bh Byzic",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhbyzic"
+          }
+        },
+        "16455606983469df70-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BH_Zpxy.jpg",
+            "image_width": 350,
+            "title": "bh zpxy",
+            "text": "<p>Fortnite<\/p>",
+            "button_label": "socials",
+            "button_link": "https:\/\/linktr.ee\/bhzpxy"
+          }
+        }
+      },
+      "block_order": [
+        "16455606983469df70-0",
+        "16455606983469df70-1"
+      ],
+      "settings": {
+        "title": "OUR PRO TEAM",
+        "align_text": "center",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow",
+    "text-columns",
+    "164556025896b0755f",
+    "1645560611228409cb",
+    "164556067738a39177",
+    "1645560698b3a9960f"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "size_chart": "",
+            "variant_labels": true,
+            "picker_type": "dropdown",
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "tag",
+            "text": "20% OFF"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": true,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "settings": {
+        "max_width": true
+      }
+    },
+    "16463418977ccd08e0": {
+      "type": "text-columns",
+      "blocks": {
+        "164634189752cffb54-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Red_Black_Hoodie_Copy_af4658d7-4113-48c8-ba4d-1d42539dfbcc.png",
+            "image_width": 330,
+            "title": "blood red hoodie",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/products\/blood-red-hoodie"
+          }
+        },
+        "164634189752cffb54-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/RedBlack_Beanie.png",
+            "image_width": 350,
+            "title": "blood red beanie",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/products\/blood-red-beanie"
+          }
+        },
+        "164634189752cffb54-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/RedBlackShirt_5644ddcc-4fb8-4f67-b53a-bde958b1d7b9.png",
+            "image_width": 320,
+            "title": "blood red shirt",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/products\/blood-red-t-shirt"
+          }
+        }
+      },
+      "block_order": [
+        "164634189752cffb54-0",
+        "164634189752cffb54-1",
+        "164634189752cffb54-2"
+      ],
+      "settings": {
+        "title": "you may also like...",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "16463418977ccd08e0",
+    "product-recommendations",
+    "collection-return"
+  ]
+}

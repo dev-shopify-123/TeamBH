@@ -1,0 +1,87 @@
+{
+  "sections": {
+    "main-collection": {
+      "type": "main-collection",
+      "disabled": true,
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {}
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "inline",
+            "per_row": 4,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "product_grid"
+      ],
+      "settings": {
+        "collection_image_enable": true,
+        "collection_image_height": 550,
+        "parallax": true,
+        "enable_sidebar": true,
+        "collapsed": true,
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "1646172748f890727d": {
+      "type": "featured-collections",
+      "blocks": {
+        "16461727475f365542-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "beanies",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16461727475f365542-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "hats",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16461727475f365542-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "hoodies",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16461727475f365542-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "t-shirts",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        }
+      },
+      "block_order": [
+        "16461727475f365542-0",
+        "16461727475f365542-1",
+        "16461727475f365542-2",
+        "16461727475f365542-3"
+      ],
+      "settings": {
+        "title": "Shop Merch",
+        "divider": false,
+        "enable_gutter": false
+      }
+    }
+  },
+  "order": [
+    "main-collection",
+    "1646172748f890727d"
+  ]
+}

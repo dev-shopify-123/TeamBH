@@ -1,0 +1,161 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "size_chart": "",
+            "variant_labels": true,
+            "picker_type": "dropdown",
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "tag",
+            "text": "20% OFF"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": true,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": false,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "164633885421c55778": {
+      "type": "text-columns",
+      "blocks": {
+        "1646338854139bb869-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BlueBlackHoodie.png",
+            "image_width": 350,
+            "title": "cotton candy blue hoodie",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/products\/cotton-candy-blue-hoodie"
+          }
+        },
+        "1646338854139bb869-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IMG-4374.jpg",
+            "image_width": 350,
+            "title": "cotton candy blue hat",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/products\/cotton-candy-blue-hat"
+          }
+        },
+        "1646338854139bb869-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BlueBlackShirt.png",
+            "image_width": 350,
+            "title": "cotton candy blue shirt",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/products\/cotton-candy-blue-t-shirt"
+          }
+        }
+      },
+      "block_order": [
+        "1646338854139bb869-0",
+        "1646338854139bb869-2",
+        "1646338854139bb869-1"
+      ],
+      "settings": {
+        "title": "You May Also Like...",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "product-recommendations",
+    "164633885421c55778",
+    "collection-return"
+  ]
+}

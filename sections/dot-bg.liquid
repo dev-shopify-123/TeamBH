@@ -1,0 +1,47 @@
+<div class="dot_bg_container">
+    {% if section.settings.bg != blank %}
+        <img class="dot_bg {% if section.settings.bg_position == "left" %}
+          bg_left
+          {% else %}
+            bg_right
+        {% endif %}" src="{{section.settings.bg | img_url: '500x'}}">
+    {% endif %}
+</div>
+{% schema %}
+    {
+        "name": "Dot Background",
+        "class": "dot-bg",
+        "settings": [
+            {
+                "type": "image_picker",
+                "id": "bg",
+                "label": "Background image"
+              },
+              {
+                "type": "select",
+                "id": "bg_position",
+                "label": "Background image position",
+                "options": [
+                  {
+                  "group": "position",
+                  "value": "left",
+                  "label": "Left"
+                  },
+                  {
+                    "group": "position",
+                    "value": "right",
+                    "label": "Right"
+                    }
+                ],
+                "default": "left",
+                "info": "You can set the background image"
+              }
+
+        ],
+        "presets": [
+            {
+                "name": "Dot Background"
+            }
+        ]
+    }
+{% endschema %}

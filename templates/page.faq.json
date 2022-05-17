@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "164566002393e4f89c": {
+      "type": "fading-images",
+      "blocks": {
+        "16456600226100b55c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-02-20_at_12.33.22_AM.png",
+            "focal_point": "center center",
+            "slide_title1": "TUNE IN",
+            "slide_title2": ""
+          }
+        }
+      },
+      "block_order": [
+        "16456600226100b55c-0"
+      ],
+      "settings": {
+        "title_lines": "1",
+        "title_font": "heading",
+        "title_size": 70,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "164566001410ab356e": {
+      "type": "advanced-content",
+      "blocks": {
+        "3bf6f392-7b0c-4237-811b-f80685d4302c": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!-- Add a placeholder for the Twitch embed -->\n<div id=\"twitch-embed\"><\/div>\n\n<!-- Load the Twitch embed script -->\n<script src=\"https:\/\/player.twitch.tv\/js\/embed\/v1.js\"><\/script>\n\n<!-- Create a Twitch.Player object. This will render within the placeholder div -->\n<script type=\"text\/javascript\">\n  new Twitch.Player(\"twitch-embed\", {\n    channel: \"cozz\"\n  });\n<\/script>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "1645660014ab5ff022-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!-- Add a placeholder for the Twitch embed -->\n<div id=\"twitch-embed\"><\/div>\n\n<!-- Load the Twitch embed script -->\n<script src=\"https:\/\/player.twitch.tv\/js\/embed\/v1.js\"><\/script>\n\n<!-- Create a Twitch.Player object. This will render within the placeholder div -->\n<script type=\"text\/javascript\">\n  new Twitch.Player(\"twitch-embed\", {\n    channel: \"daisyymichelle\"\n  });\n<\/script>",
+            "width": "100%",
+            "alignment": "bottom-middle"
+          }
+        },
+        "b7879c81-259f-4d35-b87b-76de87bfa15d": {
+          "type": "liquid",
+          "settings": {
+            "code": "<!-- Add a placeholder for the Twitch embed -->\n<div id=\"twitch-embed\"><\/div>\n\n<!-- Load the Twitch embed script -->\n<script src=\"https:\/\/player.twitch.tv\/js\/embed\/v1.js\"><\/script>\n\n<!-- Create a Twitch.Player object. This will render within the placeholder div -->\n<script type=\"text\/javascript\">\n  new Twitch.Player(\"twitch-embed\", {\n    channel: \"byzic\"\n  });\n<\/script>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "3bf6f392-7b0c-4237-811b-f80685d4302c",
+        "1645660014ab5ff022-1",
+        "b7879c81-259f-4d35-b87b-76de87bfa15d"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "164566002393e4f89c",
+    "main",
+    "164566001410ab356e"
+  ]
+}

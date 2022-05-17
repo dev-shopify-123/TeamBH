@@ -1,0 +1,327 @@
+{
+  "sections": {
+    "1645482304ab026180": {
+      "type": "fading-images",
+      "blocks": {
+        "58b0d3df-78bb-4c12-aec5-159d3dcd94d3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-04_at_12.46.15_PM.png",
+            "focal_point": "center center",
+            "slide_title1": "welcome to",
+            "slide_title2": "team bh"
+          }
+        },
+        "1645482304599cd85b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-02-19_at_6.18.33_PM.png",
+            "focal_point": "center center",
+            "slide_title1": "WELCOME TO",
+            "slide_title2": "Team bh"
+          }
+        },
+        "e115222f-c45c-4832-8ada-6083c48fdb2b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-04_at_12.47.31_PM.png",
+            "focal_point": "center center",
+            "slide_title1": "welcome to",
+            "slide_title2": "team bh"
+          }
+        }
+      },
+      "block_order": [
+        "58b0d3df-78bb-4c12-aec5-159d3dcd94d3",
+        "1645482304599cd85b-0",
+        "e115222f-c45c-4832-8ada-6083c48fdb2b"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "heading",
+        "title_size": 71,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 60,
+        "desktop_height": "750px",
+        "mobile_height": "100vh"
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "WE ARE THE 2ND MOST FOLLOWED ESPORTS TEAM IN CANADA"
+          }
+        }
+      },
+      "block_order": [
+        "heading"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16454850182f4c1ef6": {
+      "type": "rich-text",
+      "blocks": {
+        "16454850184a9edfbf-0": {
+          "type": "heading",
+          "settings": {
+            "title": "mission statement"
+          }
+        },
+        "16454850184a9edfbf-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>From the beginning, our mission has been to always bring the utmost entertaining content creation to our audience. Team BH has and always will be a safe place for its staff, members, and supporters. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16454850184a9edfbf-0",
+        "16454850184a9edfbf-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "164548508414fc46f7": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "16454850849d044c9e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Brand statement"
+          }
+        },
+        "16454850849d044c9e-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16454850849d044c9e-0",
+        "16454850849d044c9e-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "164583423232d57bfc": {
+      "type": "rich-text",
+      "blocks": {
+        "164583423255ca7852-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Latest videos"
+          }
+        }
+      },
+      "block_order": [
+        "164583423255ca7852-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1645833835bdc5246a": {
+      "type": "advanced-content",
+      "blocks": {
+        "e2fa1e7d-9007-41d7-b6e4-586997aeb78e": {
+          "type": "liquid",
+          "settings": {
+            "code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/oTdTpGd4MOA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "16458338355794684d-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/dNf28d-0rQY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "5981e08b-3cce-44d6-8525-56a63d3827dc": {
+          "type": "liquid",
+          "settings": {
+            "code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/KIP-wHsNlM0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "e2fa1e7d-9007-41d7-b6e4-586997aeb78e",
+        "16458338355794684d-1",
+        "5981e08b-3cce-44d6-8525-56a63d3827dc"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1645833842ddd2108b": {
+      "type": "advanced-content",
+      "blocks": {
+        "0ccb2942-84fe-4814-9adc-7205edebd62d": {
+          "type": "liquid",
+          "settings": {
+            "code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/KKMy_FHyyYA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "16458338422765de48-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/xpM95fvdaCI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "fba8e6e8-b639-4093-80b4-9045f74fc57b": {
+          "type": "liquid",
+          "settings": {
+            "code": "<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/Zbq4L8wHslQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "0ccb2942-84fe-4814-9adc-7205edebd62d",
+        "16458338422765de48-1",
+        "fba8e6e8-b639-4093-80b4-9045f74fc57b"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1645561912f5aeb722": {
+      "type": "text-columns",
+      "blocks": {
+        "1645561912adc22e4f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BlackRedHoodie_copy_1.png",
+            "image_width": 350,
+            "title": "Hoodies",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/collections\/hoodies"
+          }
+        },
+        "a29b9916-164c-4949-8f9e-18e391f14109": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BlackRedShirt_1.png",
+            "image_width": 350,
+            "title": "T-shirts",
+            "text": "",
+            "button_label": "Shop",
+            "button_link": "shopify:\/\/collections\/t-shirts"
+          }
+        },
+        "1645561912adc22e4f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BlackRed_Cap_1.png",
+            "image_width": 350,
+            "title": "Hats",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/collections\/hats"
+          }
+        },
+        "1645561912adc22e4f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-03-01_at_7.40.17_PM.png",
+            "image_width": 360,
+            "title": "Beanies",
+            "text": "",
+            "button_label": "shop",
+            "button_link": "shopify:\/\/collections\/beanies"
+          }
+        }
+      },
+      "block_order": [
+        "1645561912adc22e4f-2",
+        "a29b9916-164c-4949-8f9e-18e391f14109",
+        "1645561912adc22e4f-1",
+        "1645561912adc22e4f-0"
+      ],
+      "settings": {
+        "title": "TEAM BH MERCH",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16454831836d71edf4": {
+      "type": "logo-list",
+      "blocks": {
+        "1645483183726fc53b-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ARMA_PrimaryLogo_Light.png",
+            "link": ""
+          }
+        },
+        "1645483183726fc53b-1": {
+          "type": "logo_image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1645483183726fc53b-0",
+        "1645483183726fc53b-1"
+      ],
+      "settings": {
+        "title": "SPONSORS",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "1645482304ab026180",
+    "rich-text",
+    "16454850182f4c1ef6",
+    "164548508414fc46f7",
+    "164583423232d57bfc",
+    "1645833835bdc5246a",
+    "1645833842ddd2108b",
+    "1645561912f5aeb722",
+    "16454831836d71edf4"
+  ]
+}
